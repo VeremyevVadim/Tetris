@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53ede8f3b07bd45419f948fe5ce94a0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - difficultySettings: {fileID: 11400000, guid: bb327547e0b534f36a8ac32ee6edf3df,
+      type: 2}
+  - tetrominoSettings: {fileID: 11400000, guid: db216a1564ad74dda94df521c8ffc767,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b483cd35f754a7a8252f90360614e32, type: 3}
+  m_Name: RootConfig
+  m_EditorClassIdentifier: 
+  difficultyConfig: {fileID: 11400000, guid: bb327547e0b534f36a8ac32ee6edf3df, type: 2}
+  gridConfig: {fileID: 11400000, guid: 1fc813b97739c42cfb6adddf0075bc30, type: 2}
+  linesRewardConfig: {fileID: 11400000, guid: bd714bf753e854b4980cda5504954813, type: 2}
+  tetrominoConfig: {fileID: 11400000, guid: db216a1564ad74dda94df521c8ffc767, type: 2}
+  previewTetrominoConfig: {fileID: 11400000, guid: 1188b331147e84eaa80c72f3f4f7ba8d,
+    type: 2}
+  gameplaySoundGroupConfig: {fileID: 11400000, guid: cf39544f7360042bea975f754d5b3cd5,
+    type: 2}
+  animationConfig: {fileID: 11400000, guid: e06be18962b934603b4cd71e29663190, type: 2}

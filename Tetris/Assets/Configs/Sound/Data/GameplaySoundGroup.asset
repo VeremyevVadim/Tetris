@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5756a8d89e9842f4b2e87d36ee957868, type: 3}
+  m_Name: GameplaySoundGroup
+  m_EditorClassIdentifier: 
+  soundConfigs:
+  - {fileID: 11400000, guid: e9bde284a0ad545da892cd901443aef5, type: 2}
+  - {fileID: 11400000, guid: 52de726e2b1db494c831af87fce3c3d4, type: 2}
+  - {fileID: 11400000, guid: 0303be9e530094789b74bcdc2f0663d6, type: 2}
+  - {fileID: 11400000, guid: 9cb6565c925dd44eb8cb636559f3dfd2, type: 2}
